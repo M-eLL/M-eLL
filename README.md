@@ -7,9 +7,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
-- 🔭 Currently working on a secure journaling app, [In.security](https://insecurity-app.herokuapp.com/)
+- 🔏 Currently working on a secure journaling app, [In.security](https://insecurity-app.herokuapp.com/)
 - 🤔 Exploring different ways to implement auth and encryption
-- 👯 Always looking to collaborate with other awesome developers
+- 🤝 Always looking to collaborate with other awesome developers
 <br/><br/>Fun facts:
 - 🌱 Really into water propagation lately
 - 🛠 Forever working on joinery techniques
