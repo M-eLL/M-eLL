@@ -14,7 +14,7 @@
 - 🌱 Really into water propagation lately
 - 🛠 Forever working on joinery techniques
 - ✨ I play trumpet, guitar, and tennis
-- 
+
 
 ### Toolbelt
 
