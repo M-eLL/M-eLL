@@ -32,5 +32,6 @@
 <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
-<br>
+
+<br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-eLL)](https://github.com/M-eLL/github-readme-stats)
 
