@@ -12,7 +12,7 @@
 - 🔏 Currently working on a secure journaling app, [In.security](https://insecurity-app.herokuapp.com/)
 - 🤔 Exploring different ways to implement auth and encryption
 - 🤝 Always looking to collaborate with other awesome developers
-- 😎 Check out my [Portfolio](https://mishe.dev/)!
+- 😎 Check out my [portfolio](https://mishe.dev/)!
 <br/><br/>Fun facts:
 - 🌱 Really into water propagation
 - ✨ I play trumpet, guitar, and tennis
