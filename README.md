@@ -12,9 +12,9 @@
 - 🔏 Currently working on a secure journaling app, [In.security](https://insecurity-app.herokuapp.com/)
 - 🤔 Exploring different ways to implement auth and encryption
 - 🤝 Always looking to collaborate with other awesome developers
+- 😎 Check out my [Portfolio](https://mishe.dev/)!
 <br/><br/>Fun facts:
-- 🌱 Really into water propagation lately
-- 🛠 Forever working on joinery techniques
+- 🌱 Really into water propagation
 - ✨ I play trumpet, guitar, and tennis
 
 
@@ -35,5 +35,4 @@
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
 
-<br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-eLL)](https://github.com/M-eLL/github-readme-stats)
 
