@@ -9,13 +9,10 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" />
 
-- 🔏 Currently working on a secure journaling app, [In.security](https://insecurity-app.herokuapp.com/)
-- 🤔 Exploring different ways to implement auth and encryption
+- 📖 Currently reading Eloquent Javascript
+- 🤔 Exploring different ways to wite accessible code
 - 🤝 Always looking to collaborate with other awesome developers
 - 😎 Check out my [portfolio](https://mishe.dev/)!
-<br/><br/>Fun facts:
-- 🌱 Really into water propagation
-- ✨ I play trumpet, guitar, and tennis
 
 
 ### Toolbelt
