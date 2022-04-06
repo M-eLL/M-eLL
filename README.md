@@ -8,9 +8,8 @@
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/DCrIgNZnO2xFOPcswF/source.gif" height="300" /> -->
 
-- 📖 Currently reading Eloquent Javascript
-- 🤔 Exploring different ways to wite accessible code
-- 🤝 Always looking to collaborate with other awesome developers
+- 📖 Currently reading Programming Typescript: Making Your JavaScript Applications Scale
+- 🤔 Always learning && unlearning
 
 
 ### Toolbelt
